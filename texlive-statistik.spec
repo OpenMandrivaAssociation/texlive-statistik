@@ -6,7 +6,7 @@
 # catalog-version 0.03
 Name:		texlive-statistik
 Version:	0.03
-Release:	8
+Release:	9
 Summary:	Store statistics of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/statistik
