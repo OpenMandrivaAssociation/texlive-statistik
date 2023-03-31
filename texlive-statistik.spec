@@ -1,6 +1,6 @@
 Name:		texlive-statistik
 Version:	20334
-Release:	1
+Release:	2
 Summary:	Store statistics of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/statistik
